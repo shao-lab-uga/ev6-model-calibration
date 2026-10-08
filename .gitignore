@@ -1,0 +1,24 @@
+# Generated MATLAB/Simulink artifacts
+slprj/
+*_grt_rtw/
+*_ert_rtw/
+*.slxc
+*.asv
+*.m~
+*.autosave
+# Local raw datasets and full simulation outputs
+/data/raw/*
+!/data/raw/README.md
+/results/simulation_outputs/*
+!/results/simulation_outputs/README.md
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+# Local operating-system files
+.DS_Store
+Thumbs.db
