@@ -6,7 +6,7 @@ Development of a MATLAB/Simulink longitudinal vehicle model for a **2023 Kia EV6
 
 The project follows an engineering sequence: establish valid inputs and a working baseline, calibrate mechanical behavior, correct the battery representation, investigate remaining power bias, and validate the final model.
 
-> **Package status:** This repository package contains documentation, transcribed result tables, and the existing LaTeX report source. The Simulink models, MATLAB scripts, raw dyno datasets, calibration MAT files, and clean figure exports must still be added from the working project. Reported results come from the project record; they were not rerun when preparing this repository.
+> **Package status:** This repository contains the final Simulink model, MATLAB development and validation scripts, torque and battery calibration files, validation metrics, exported figures, project documentation, and the editable LaTeX report. Raw dynamometer datasets and large intermediate simulation outputs are excluded because of distribution restrictions and repository size limits. Reported results were produced during the documented MATLAB/Simulink development workflow.
 
 ## Main results
 
