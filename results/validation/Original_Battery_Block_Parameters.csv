@@ -1,0 +1,15 @@
+Name,Prompt,CurrentValue
+CapacityCtrl,autoblks:autoblkDatasheetBattery:blkPrm_CapacityCtrl,Parameter
+OutputVlt,autoblks:autoblkDatasheetBattery:blkPrm_OutputVlt,Unfiltered
+BattChargeMax,autoblks:autoblkDatasheetBattery:blkPrm_BattChargeMax,BattChrgCapcty
+Em,autoblks:autoblkDatasheetBattery:blkPrm_Em,BattOpenVoltTbl
+CapLUTBp,autoblks:autoblkDatasheetBattery:blkPrm_CapLUTBp,BattOpenVoltCapBpts
+RInt,autoblks:autoblkDatasheetBattery:blkPrm_RInt,BattResistTbl
+BattTempBp,autoblks:autoblkDatasheetBattery:blkPrm_BattTempBp,BattResistTempBpts
+CapSOCBp,autoblks:autoblkDatasheetBattery:blkPrm_CapSOCBp,BattResistSocBpts
+Ns,autoblks:autoblkDatasheetBattery:blkPrm_Ns,BattNumCellsSeries
+Np,autoblks:autoblkDatasheetBattery:blkPrm_Np,BattNumCellsParallel
+BattCapInit,autoblks:autoblkDatasheetBattery:blkPrm_BattCapInit,InitStates(TestScnrioCycleNum).BattSoc*BattChrgCapcty
+Tc,autoblks:autoblkDatasheetBattery:blkPrm_Tc,1/1000
+Vinit,autoblks:autoblkDatasheetBattery:blkPrm_Vinit,3.75*72
+RefBlkName,,'autolibdatasheetbattery/Datasheet Battery'
