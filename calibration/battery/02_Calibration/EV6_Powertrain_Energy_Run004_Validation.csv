@@ -1,0 +1,2 @@
+Run,DynoNetEnergy_kWh,OriginalNetEnergy_kWh,CorrectedNetEnergy_kWh,OriginalEnergyError_pct,CorrectedEnergyError_pct,OriginalCurrentBias_A,CorrectedCurrentBias_A,OriginalCurrentMAE_A,CorrectedCurrentMAE_A,OriginalCurrentRMSE_A,CorrectedCurrentRMSE_A,OriginalCurrentCorrelation,CorrectedCurrentCorrelation
+Run004,0.284312805400653,0.219013352057599,0.252301079784892,-22.9674682612464,-11.2593330330832,-0.52422229183895,-0.25564924376661,1.22571295731577,1.09100065102197,2.12417973460938,2.06926238128798,0.973846265332151,0.973839565619977
